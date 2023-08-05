@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="backgroundheight">
+    <div class="leistungen font-color">
+        {{ with site.Data.leistungen.leistungen.index }}
+        {{ partial "content/leistungen.html" . }}
+        {{ end }} 
+    </div>
+</div>
+
+{{ end }}

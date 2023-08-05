@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="backgroundheight">
+    <div class="impressum datenschutz font-color">
+        {{ with site.Data.datenschutz.datenschutz.data }}
+        {{ partial "content/datenschutz.html" . }}
+        {{ end }} 
+    </div>
+</div>
+
+{{ end }}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<div>
+{{ with site.Data.aboutme.aboutme.vita }}
+{{ partial "content/aboutme.html" . }}
+{{ end }} 
+</div>
+
+{{ end }}

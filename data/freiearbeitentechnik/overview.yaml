@@ -1,0 +1,38 @@
+categories:
+  enable : true
+  title: "Freie Arbeiten Technik"
+  
+  one: "/img/freiearbeitentechnik/one.jpg"
+  two: "/img/freiearbeitentechnik/two.jpg"
+  three: "/img/freiearbeitentechnik/three.jpg"
+  four: "/img/freiearbeitentechnik/four.jpg"
+  five: "/img/freiearbeitentechnik/five.jpg"
+  six: "/img/freiearbeitentechnik/six.jpg"
+  seven: "/img/freiearbeitentechnik/seven.jpg"
+  eight: "/img/freiearbeitentechnik/eight.jpg"
+  nine: "/img/freiearbeitentechnik/nine.jpg"
+  ten: "/img/freiearbeitentechnik/ten.jpg"
+  eleven: "/img/freiearbeitentechnik/eleven.jpg"
+  twelve: "/img/freiearbeitentechnik/twelve.jpg"
+  thirteen: "/img/freiearbeitentechnik/thirteen.jpg"
+  fourteen: "/img/freiearbeitentechnik/fourteen.jpg"
+  fifteen: "/img/freiearbeitentechnik/fifteen.jpg"
+  sixteen: 
+  seventeen: 
+  eighteen: 
+  nineteen: 
+  twenty: 
+  twentyone: 
+  twentytwo: 
+  twentythree: 
+  twentyfour: 
+  twentyfive: 
+  twentysix: 
+  twentyseven: 
+  twentyeight: 
+  twentynine: 
+  thirty: 
+
+  button:
+    enable: true
+    link: "/freiearbeitentechnik"

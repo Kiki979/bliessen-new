@@ -1,0 +1,66 @@
+<nav id="mySidenav" class="sidenav">
+    <div class="flex marg-auto pad-top-sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
+            <p>schließen &#9776;</p>
+        </a>
+        <a href="/" class="logo-w">
+            <img width="auto" height="150" src="/img/diane.jpg" class="attachment-medium radius size-medium"
+                alt="Diane Bliessen" sizes="(max-width: 300px) auto, 300px"></a>
+    </div>
+    <!-- <div class="pad-sidenav">
+        <div class="float-l">
+            <a data-target="/" class="nav-link" id="navbarDropdown" role="button" href="/">Fotografie</a><br>
+        </div>
+        <div class="dropdown-btn">
+            <i class="fa fa-caret-down"></i>
+        </div> -->
+
+    <div class="pad-sidenav">
+        <button class="dropdown-btn nav-link nav1">Fotografie
+            <b class="fa-down">&#9660</b>
+        </button>
+        <div class="dropdown-container clear">
+          <a href="/pferdeportrait/">Pferdeportrait</a>
+          <a href="/polo/">Polo</a>
+          <a href="/hochzeit/">Hochzeit</a>
+          <a href="/pferdezucht/">Pferdezucht</a>
+          <a href="/portrait_mit_pferd/">Portrait mit Pferd</a>
+          <a href="/hunde/">Hunde</a>
+          <a href="/pferdesport/">Pferdesport</a>
+          <a href="/natur/">Natur</a>
+        </div>
+        <button class="dropdown-btn nav-link nav2">Malerei
+            <b class="fa-down">&#9660</b>
+        </button>
+        <div class="dropdown-container clear">
+            <a href="/professorwaldemar">Professor Waldemar</a>
+            <a href="/freiearbeitenpferde">Freie Arbeiten Pferde</a>
+            <a href="/freiearbeitentechnik">Freie Arbeiten Technik</a>
+            <a href="/auftragsarbeiten">Auftragsarbeiten</a>
+        </div>
+   
+
+        {{ range .Site.Menus.main }} {{ $text := .Name | safeHTML }}
+        <a data-target="{{ .URL }}" class="nav-link clear" href="{{ .URL }}">{{ $text }}</a></br>
+        {{ end }}
+    </div>
+    <div >
+        <div>
+            <div class="social-links flex pad-top-sidenav" id="mobil" >
+                <a href="https://www.facebook.com/DianeBliessenEquineArtUndFotografie/" target="_blank"><i
+                        class="os-icon os-icon-social-facebook"></i></a>
+                <a href="https://www.instagram.com/d.bliessen/" target="_blank"><i
+                        class="os-icon os-icon-social-instagram"></i></a>
+            </div>
+            <div class="social-links flex" id="mobil2">
+                <a class="im-da" href="/impressum/">Impressum</a>
+                <a class="im-da" href="/datenschutz">Datenschutz</a>
+            </div>
+        </div>
+    </div>
+</div>
+</nav>
+<!-- Use any element to open the sidenav -->
+<div class="slideout">
+    <span id="hidden" class="menu-label" onclick="openNav()">&#9776; Menu </MENU></span>
+</div>

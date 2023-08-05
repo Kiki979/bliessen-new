@@ -1,0 +1,46 @@
+categories:
+  enable : true
+  title: "Pferdesport"
+  image : "/img/pferdesport/one.jpg"
+  one: "/img/pferdesport/one.jpg"
+  two: "/img/pferdesport/two.jpg"
+  three: "/img/pferdesport/three.jpg"
+  four: "/img/pferdesport/four.jpg"
+  five: "/img/pferdesport/five.jpg"
+  six: "/img/pferdesport/six.jpg"
+  seven: "/img/pferdesport/seven.jpg"
+  eight: "/img/pferdesport/eight.jpg"
+  nine: "/img/pferdesport/nine.jpg"
+  ten: "/img/pferdesport/ten.jpg"
+  eleven: "/img/pferdesport/eleven.jpg"
+  twelve: "/img/pferdesport/twelve.jpg"
+  thirteen: "/img/pferdesport/thirteen.jpg"
+  fourteen: "/img/pferdesport/fourteen.jpg"
+  fifteen: "/img/pferdesport/fifteen.jpg"
+  sixteen: "/img/pferdesport/sixteen.jpg"
+  seventeen: "/img/pferdesport/seventeen.jpg"
+  eighteen: "/img/pferdesport/eighteen.jpg"
+  nineteen: "/img/pferdesport/nineteen.jpg"
+  twenty: "/img/pferdesport/twenty.jpg"
+  twentyone: "/img/pferdesport/twentyone.jpg"
+  twentytwo: "/img/pferdesport/twentytwo.jpg"
+  twentythree: "/img/pferdesport/twentythree.jpg"
+  twentyfour: "/img/pferdesport/twentyfour.jpg"
+  twentyfive: "/img/pferdesport/twentyfive.jpg"
+  twentysix: "/img/pferdesport/twentysix.jpg"
+  twentyseven: "/img/pferdesport/twentyseven.jpg"
+  twentyeight: "/img/pferdesport/twentyeight.jpg"
+  twentynine: "/img/pferdesport/twentynine.jpg"
+  thirty: "/img/pferdesport/thirty.jpg"
+  thirtyone: "/img/pferdesport/thirtyone.jpg"
+  thirtytwo: 
+  thirtythree: "/img/pferdesport/thirtythree.jpg"
+  thirtyfour: 
+  thirtyfive: "/img/pferdesport/thirtytwo.jpg"
+  thirtysix:
+  thirtyseven: "/img/pferdesport/thirtyfour.jpg"
+  thirtyeight: 
+  thirtynine: 
+  button:
+    enable: true
+    link: "/pferdesport"

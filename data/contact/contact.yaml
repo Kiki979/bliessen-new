@@ -1,0 +1,6 @@
+data: 
+  enable : true
+  firstheader: "Kontakt"
+  text: "+49 172 2459808"
+  image: "../img/professorwaldemar/professor_waldemar_telefoniert.jpg"
+  imgalt: "Kontakt-Waldemar"

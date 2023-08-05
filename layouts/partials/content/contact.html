@@ -1,0 +1,21 @@
+<div class="container-co  overflow-h mb-1 pad-top-contact">
+    <div class=" box marg-auto">
+    <form method="POST" action="mailto:info@d-bliessen.de">
+        <h2 class="font-color">{{ .firstheader | markdownify }}</h2>
+
+        <!-- <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+          <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div> -->
+        <button type="submit" value="E-Mail senden" class="btn btn-grey font-color">E-Mail senden</button>
+        <h5 class="font-color" >{{ .text | markdownify }}</h5>
+      </form> 
+    </div>
+    <div class="flex-box">
+       <img class="map" src="{{ .image }}" alt="{{ .imgalt }}">
+    </div>
+</div>

@@ -1,0 +1,38 @@
+categories:
+  enable : true
+  title: "Professor Waldemar"
+  
+  one: "/img/professorwaldemar/one.jpg"
+  two: "/img/professorwaldemar/two.jpg"
+  three: "/img/professorwaldemar/three.jpg"
+  four: "/img/professorwaldemar/four.jpg"
+  five: "/img/professorwaldemar/five.jpg"
+  six: "/img/professorwaldemar/six.jpg"
+  seven: "/img/professorwaldemar/seven.jpg"
+  eight: "/img/professorwaldemar/eight.jpg"
+  nine: "/img/professorwaldemar/nine.jpg"
+  ten: "/img/professorwaldemar/ten.jpg"
+  eleven: "/img/professorwaldemar/eleven.jpg"
+  twelve: "/img/professorwaldemar/twelve.jpg"
+  thirteen: "/img/professorwaldemar/thirteen.jpg"
+  fourteen: "/img/professorwaldemar/fourteen.jpg"
+  fifteen: "/img/professorwaldemar/fifteen.jpg"
+  sixteen: 
+  seventeen: 
+  eighteen: 
+  nineteen: 
+  twenty: 
+  twentyone: 
+  twentytwo: 
+  twentythree: 
+  twentyfour: 
+  twentyfive: 
+  twentysix: 
+  twentyseven: 
+  twentyeight: 
+  twentynine: 
+  thirty: 
+
+  button:
+    enable: true
+    link: "/professorwaldemar"

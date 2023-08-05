@@ -1,0 +1,103 @@
+# default config
+baseurl = "https://www.d-bliessen.de"
+languageCode = "en-us"
+title = "Fotografie Diane Bliessen"
+
+
+summaryLength = "10"
+paginate = 15
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/jjquery.fancybox.min.css"
+
+
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+
+[[params.plugins.js]]
+link = "plugins/js/jquery-3.6.0.js"
+[[params.plugins.js]]
+link = "plugins/js/jquery-3.6.0.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+
+
+
+# navigation
+[menu]
+
+[[menu.main]]
+	name = "Kontakt"
+	url = "/contact"
+	weight = 30
+
+ [[menu.main]]
+	identifier = "leistungen"
+	name = "Leistungen"
+	url = "/leistungen"
+	weight = 35
+
+  [[menu.main]]
+	identifier = "uebermich"
+	name = "Über Mich"
+	url = "/aboutme"
+	weight = 40
+
+
+
+
+
+
+
+# search
+search = true
+# about author
+author = "John Doe"
+author_image = "images/banner-img.png"
+bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact info
+mobile = "+90 000 333 22"
+email = "exmaple@ymail.com"
+address = "6 rip carl Avenue CA 90733"
+# Contact Form Action
+contact_form_action = "#"
+
+# Instagram feed
+[params.instafeed]
+enable = true
+access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/themefisher"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+
+[[params.social]]
+icon = "ti-github"
+link = "#"

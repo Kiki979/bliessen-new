@@ -1,0 +1,33 @@
+categories:
+  enable : true
+  title: "Hunde"
+  image : "/img/hunde/five.jpg"
+  one: "/img/hunde/one.jpg"
+  two: "/img/hunde/two.jpg"
+  three: "/img/hunde/three.jpg"
+  four: "/img/hunde/four.jpg"
+  five: "/img/hunde/five.jpg"
+  six: "/img/hunde/six.jpg"
+  seven: "/img/hunde/seven.jpg"
+  eight: "/img/hunde/eight.jpg"
+  nine: "/img/hunde/nine.jpg"
+  ten: "/img/hunde/ten.jpg"
+  eleven: "/img/hunde/eleven.jpg"
+  twelve: "/img/hunde/twelve.jpg"
+  thirteen: "/img/hunde/thirteen.jpg"
+  fourteen: "/img/hunde/fourteen.jpg"
+  fifteen: "/img/hunde/fifteen.jpg"
+  sixteen: "/img/hunde/sixteen.jpg"
+  seventeen: "/img/hunde/seventeen.jpg"
+  eighteen: "/img/hunde/eighteen.jpg"
+  nineteen: "/img/hunde/nineteen.jpg"
+  twenty: "/img/hunde/twenty.jpg"
+  twentyone: "/img/hunde/twentyone.jpg"
+  twentytwo:  "/img/hunde/twentytwo.jpg"
+  twentythree: "/img/hunde/twentythree.jpg"
+  twentyfour: "/img/hunde/twentyfour.jpg"
+  twentyfive:
+  twentysix: "/img/hunde/twentysix.jpg"
+  button:
+    enable: true
+    link: "/hunde"

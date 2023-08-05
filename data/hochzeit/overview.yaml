@@ -1,0 +1,47 @@
+categories:
+  enable : true
+  title: "Hochzeit"
+  image : "/img/hochzeit/one.jpg"
+  one: "/img/hochzeit/one.jpg"
+  two: "/img/hochzeit/two.jpg"
+  three: "/img/hochzeit/three.jpg"
+  four: "/img/hochzeit/four.jpg"
+  five: "/img/hochzeit/five.jpg"
+  six: "/img/hochzeit/six.jpg"
+  seven: "/img/hochzeit/seven.jpg"
+  eight: "/img/hochzeit/eight.jpg"
+  nine: "/img/hochzeit/nine.jpg"
+  ten: "/img/hochzeit/ten.jpg"
+  eleven: "/img/hochzeit/eleven.jpg"
+  twelve: "/img/hochzeit/twelve.jpg"
+  thirteen: "/img/hochzeit/thirteen.jpg"
+  fourteen: "/img/hochzeit/fourteen.jpg"
+  fifteen: "/img/hochzeit/fifteen.jpg"
+  sixteen: "/img/hochzeit/sixteen.jpg"
+  seventeen: "/img/hochzeit/seventeen.jpg"
+  #eighteen: "/img/hochzeit/eighteen.jpg"
+  #nineteen: "/img/hochzeit/nineteen.jpg"
+  #twenty: "/img/hochzeit/twenty.jpg"
+  #twentyone: "/img/hochzeit/twentyone.jpg"
+  #twentytwo: "/img/hochzeit/twentytwo.jpg"
+  #twentythree: "/img/hochzeit/twentythree.jpg"
+  #twentyfour: "/img/hochzeit/twentyfour.jpg"
+  #twentyfive: "/img/hochzeit/twentyfive.jpg"
+  #twentysix: "/img/hochzeit/twentysix.jpg"
+  #twentyseven: "/img/hochzeit/twentyseven.jpg"
+  #twentyeight: "/img/hochzeit/twentyeight.jpg"
+  #twentynine: 
+  #thirty: "/img/hochzeit/thirty.jpg"
+  #thirtyone: 
+  #thirtytwo: "/img/hochzeit/thirtytwo.jpg"
+  #thirtythree: 
+  #thirtyfour: "/img/hochzeit/thirtyfour.jpg"
+  #thirtyfive: "/img/hochzeit/thirtyfive.jpg"
+  #thirtysix: "/img/hochzeit/thirtysix.jpg"
+  #thirtyseven: /img/hochzeit/thirtyseven.jpg
+  #thirtyeight: "/img/hochzeit/thirtyeight.jpg"
+  #thirtynine: 
+  #fourty: 
+  button:
+    enable: true
+    link: "/hochzeit/"

@@ -1,0 +1,34 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ with .Title }}{{ . }}{{ else }}{{ with site.Title }}{{ . }}{{ end }}{{ end }}</title>
+  <!-- <base href="https://www.d-bliessen.de"> -->
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="author" content="Diane Bliessen">
+  {{ with .Params.image }}
+  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta http-equiv="imagetoolbar" content="no" /> 
+  {{ end }}
+  
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+ 
+  
+  {{"<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "css/style.css" | minify }}
+  <!-- <link rel="stylesheet" href="http://www.www3-kaefer.de/css/style.min.css"> -->
+
+  <link rel="stylesheet" href="https://www.d-bliessen.de/css/style.min.css">
+  <!-- <link rel="stylesheet" href="{{ $styles.Permalink }}"> -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" type="text/css" media="all"/>
+  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"> -->
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"> -->
+  <!-- <script src="http://www.www3-kaefer.de/js/jquery-3.6.0.min.js"></script> -->
+  <!-- <link rel="preload" href="/font/open-sans-v34-latin-regular.woff" as="font" type="woff" crossorigin> -->
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+  <!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+ 
+
+</head>

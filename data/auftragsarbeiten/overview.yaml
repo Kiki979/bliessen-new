@@ -1,0 +1,27 @@
+categories:
+  enable : true
+  title: "Auftragsarbeiten"
+  
+  one: "/img/auftragsarbeiten/one.jpg"
+  two: "/img/auftragsarbeiten/two.jpg"
+  three: "/img/auftragsarbeiten/three.jpg"
+  four: "/img/auftragsarbeiten/four.jpg"
+  five: "/img/auftragsarbeiten/five.jpg"
+  six: "/img/auftragsarbeiten/six.jpg"
+  seven: "/img/auftragsarbeiten/seven.jpg"
+  eight: "/img/auftragsarbeiten/eight.jpg"
+  nine: "/img/auftragsarbeiten/nine.jpg"
+  ten: "/img/auftragsarbeiten/ten.jpg"
+  eleven: "/img/auftragsarbeiten/eleven.jpg"
+  twelve: "/img/auftragsarbeiten/twelve.jpg"
+  thirteen: "/img/auftragsarbeiten/thirteen.jpg"
+  fourteen: "/img/auftragsarbeiten/fourteen.jpg"
+  fifteen: 
+  sixteen: "/img/auftragsarbeiten/sixteen.jpg"
+  seventeen: 
+  eighteen: "/img/auftragsarbeiten/eighteen.jpg"
+  nineteen: 
+  twenty:
+  button:
+    enable: true
+    link: "/auftragsarbeiten"

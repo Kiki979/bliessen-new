@@ -1,0 +1,27 @@
+categories:
+  enable : true
+  title: "Pferdeportrait"
+  image : "/img/pferdeportrait/one.jpg" 
+  one: "/img/pferdeportrait/one.jpg"
+  two: "/img/pferdeportrait/two.jpg"
+  three: "/img/pferdeportrait/three.jpg"
+  four: "/img/pferdeportrait/four.jpg"
+  five: "/img/pferdeportrait/five.jpg"
+  six: "/img/pferdeportrait/six.jpg"
+  seven: "/img/pferdeportrait/seven.jpg"
+  eight: "/img/pferdeportrait/eight.jpg"
+  nine: "/img/pferdeportrait/nine.jpg"
+  ten: "/img/pferdeportrait/ten.jpg"
+  eleven: "/img/pferdeportrait/eleven.jpg"
+  twelve: "/img/pferdeportrait/twelve.jpg"
+  thirteen: "/img/pferdeportrait/thirteen.jpg"
+  fourteen: "/img/pferdeportrait/fourteen.jpg"
+  fifteen: "/img/pferdeportrait/fifteen.jpg"
+  sixteen: "/img/pferdeportrait/sixteen.jpg"
+  seventeen: "/img/pferdeportrait/seventeen.jpg"
+  eighteen: "/img/pferdeportrait/eighteen.jpg"
+  nineteen: "/img/pferdeportrait/nineteen.jpg"
+  twenty: "/img/pferdeportrait/twenty.jpg"
+  button:
+    enable: true
+    link: "/pferdeportrait"

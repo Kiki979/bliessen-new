@@ -1,0 +1,78 @@
+index: 
+  enable : true
+  firstheader: "Meine Angebote für Dich und Dein Tier:"
+  firsttitle: "Zunächst eine wichtige Info vorab:"
+  firsttext1: "!! Für jedes gebuchte Shooting gibt es kein Zeitlimit. 
+      Es wird immer individuell vor allem auf die Bedürfnisse und Befindlichkeiten 
+      der teilnehmenden Tiere abgestimmt !!"
+  angebottitel1: "Shooting - Paket 1"
+  angebotSubTitle1: "Kleines Portrait-Shooting"
+  angebotliste11: "individuelles Vorgespräch"
+  angebotliste12: "eine Location"
+  angebotliste13: "Standportrait ohne und mit Person verschiedene Varianten
+      Ganzkörper oder Teil-Portrait," 
+  angebotliste13a: " Black-Background nach Absprache und Möglichkeit"
+
+  angebotliste14: "Auswahlgalerie online"
+  angebotliste15: "3 professionell fertig bearbeitete Fotos inklusive eventuell erforderlichen Retuschearbeiten
+      als digitale Download-Datei und als Druck 13x18 cm"
+  angebotliste16: "2 Download-Galerien jeweils:"
+  angebotliste16a: "1x die ausgewählten Fotos in originaler Größe"
+  angebotliste16b: "1x die ausgewählten Fotos vorbereitet für Social-Media (Instagram, Facebook, Status)
+            in passend reduzierter Größe mit Logostempel"
+  angebotspreis1: "Preis €130,-"
+  angebotspreis1zusatz: "Weitere Fotos digital für € 12,-/Stck., Fotos inklusive Druck 13x18 für € 18,-/Stck. zubuchbar
+      Anfahrtkosten ab 15 km € 0,45/km zuzüglich"
+
+  angebottitel2: "Shooting - Paket 2"
+  angebotSubTitle2: "Individuelles Shooting"
+  angebotliste21: "individuelles Vorgespräch"
+  angebotliste22: "verschiedene Locations möglich"
+  angebotliste23: "Standportrait ohne und mit Person verschiedene Varianten
+      Bewegungsfotos,"
+  angebotsliste23a: " Black-Background-Portrait mit und ohne Person nach Absprache und Möglichkeit
+      Ganzkörper oder Teil-Portrait"
+  angebotliste24: "Auswahlgalerie online"
+  angebotliste25: "6 professionell fertig bearbeitete Fotos inklusive eventuell erforderlichen Retuschearbeiten
+      als digitale Download-Datei und als Druck 13x18 cm"
+  angebotliste26: "2 Download-Galerien jeweils:"
+  angebotliste26a: "1x die ausgewählten Fotos in originaler Größe"
+  angebotliste26b: "1x die ausgewählten Fotos vorbereitet für Social-Media (Instagram, Facebook, Status)
+            in passend reduzierter Größe mit Logostempel"
+  angebotspreis2: "Preis €180,-"
+  angebotspreis2zusatz: "Weitere Fotos digital für € 12,-/Stck., Fotos inklusive Druck 13x18 für € 18,-/Stck. zubuchbar
+      Anfahrtkosten ab 15 km € 0,45/km zuzüglich"
+
+  angebottitel3: "Shooting - Paket 3"
+  angebotSubTitel3: "mobiles Studio"
+  angebotliste31: "individuelles Vorgespräch"
+  angebotliste32: "eine Location nach Absprache, Aufbaumöglichkeiten für das mobile Studio vorausgesetzt"
+  angebotliste33: "Mindestteilnehmerzahl 2, maximale Teilnehmerzahl 4"
+  angebotliste34: "Stand- oder Bewegungsfotos je nach Aufbaumöglichkeit"
+  angebotliste35: "Auswahlgalerie online"
+  angebotliste36: "4 professionell fertig bearbeitete Fotos inklusive eventuell erforderlichen Retuschearbeiten
+      als digitale Download-Datei und als Druck 13x18 cm"
+  angebotliste37: "2 Download-Galerien jeweils:"
+  angebotliste37a: "1x die ausgewählten Fotos in originaler Größe"
+  angebotliste37b: "1x die ausgewählten Fotos vorbereitet für Social-Media (Instagram, Facebook, Status)
+            in passend reduzierter Größe mit Logostempel"
+  angebotspreis3: "Preis €180,- pro Teilnehmer"
+  angebotspreis3zusatz: "Weitere Fotos digital für € 12,-/Stck., Fotos inklusive Druck 13x18 für € 18,-/Stck. zubuchbar
+      Anfahrtkosten ab 15 km € 0,45/km zuzüglich"
+
+  angebottitel4: "Shooting - Paket 4"
+  angebotSubTitel4: "für Kleintiere, Katzen und Hunde auch mit mobilem Studio möglich"
+  angebotliste41: "individuelles Vorgespräch"
+  angebotliste42: "Location nach Absprache, ich komme auch zu Dir nach Hause.
+      Portrait oder Bewegungsfotos
+      bei mobilem Studio, Aufbaumöglichkeiten für das mobile Studio vorausgesetzt."
+  angebotliste43: "Auswahlgalerie online"
+  angebotliste44: "4 professionell fertig bearbeitete Fotos inklusive eventuell erforderlichen Retuschearbeiten
+      als digitale Download-Datei und als Druck 13x18 cm"
+  angebotliste45: "2 Download-Galerien jeweils:"
+  angebotliste45a: "1x die ausgewählten Fotos in originaler Größe"
+  angebotliste45b: "1x die ausgewählten Fotos vorbereitet für Social-Media (Instagram, Facebook, Status)
+            in passend reduzierter Größe mit Logostempel"
+  angebotspreis4: "Preis €160,-"
+  angebotspreis4zusatz: "Weitere Fotos digital für € 12,-/Stck., Fotos inklusive Druck 13x18 für € 18,-/Stck. zubuchbar
+      Anfahrtkosten ab 15 km € 0,45/km zuzüglich"

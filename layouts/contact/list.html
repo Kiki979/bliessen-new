@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<div>
+{{ with site.Data.contact.contact.data }}
+{{ partial "content/contact.html" . }}
+{{ end }} 
+</div>
+
+{{ end }}

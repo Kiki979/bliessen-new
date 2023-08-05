@@ -1,0 +1,42 @@
+{{ define "main" }} 
+
+
+<div class="flex-c">
+    <div class="box-c">
+    {{ with site.Data.pferdeportrait.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end }} 
+
+    {{ with site.Data.polo.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end }} 
+
+    {{ with site.Data.hochzeit.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end }} 
+
+    {{ with site.Data.pferdezucht.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end }} 
+    </div>
+    <div class="box-c">
+    {{ with site.Data.portrait_mit_pferd.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end  }} 
+
+    {{ with site.Data.hunde.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end  }} 
+
+    {{ with site.Data.pferdesport.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end  }} 
+
+    {{ with site.Data.natur.overview.categories }}
+    {{ partial "categories.html" . }}
+    {{ end }} 
+
+</div>
+</div>
+
+{{ end }}

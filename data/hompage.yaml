@@ -1,0 +1,10 @@
+############################Start Header Element ##########################
+teaser:
+  enable : true
+  title: "Pferde"
+  image : "img/pferde/white-horse-.webp"
+  imagealt : "Pferd im Schnee"
+  button:
+    enable: true
+    label : "Mehr dazu"
+    link : "/pferde/"

@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<div class="backgroundheight">
+<div class="impressum font-color">
+    <div class="text-align">
+    {{ with site.Data.impressum.impressum.data }}
+    {{ partial "content/impressum.html" . }}
+    {{ end }} 
+    </div>
+</div>
+</div>
+{{ end }}
